@@ -1,0 +1,57 @@
+.darkmode {
+    background-color: black;
+    color: white;
+}
+
+body {
+    background-color: bisque;
+}
+
+h1 {
+    flex: 2;
+    text-align: center;
+}
+h2 {
+    flex: 2;
+    text-align: center;
+}
+.Show-message {
+    flex: 2;
+    text-align: center;
+}
+.clear-message {
+    flex: 2;
+    text-align: center;
+}
+.clearMessageButton {
+    flex: 2;
+}
+.add-fruit {
+    flex: 2;
+    text-align: center;
+}
+.fruits {
+    flex: 2;
+    text-align: center;
+    font-size: larger;
+    margin: 10px;
+    
+}
+.myMessage {
+    flex: 2;
+    text-align: center;
+}
+.theInputValue {
+    flex: 2;
+    text-align: center;
+}
+.text {
+    flex: 2;
+    text-align: center;
+    margin: 10px;
+}
+.button{
+    flex: 2;
+    text-align: center;
+    margin: 10px;
+}
